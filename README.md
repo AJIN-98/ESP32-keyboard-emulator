@@ -30,7 +30,7 @@ This project turns an ESP32 into a Bluetooth Low Energy (BLE) keyboard that can 
    - Make sure you have the ESP32 board package installed. If not, follow [this guide](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html).
 
 4. **Upload the Code**:
-   - Open the provided `sketch_aug4a.ino` file in the Arduino IDE.
+   - Open the provided `ESP32_keyboard_emulator.ino` file in the Arduino IDE.
    - Connect your ESP32 to your computer.
    - Click **Upload** to compile and upload the code to your ESP32.
 
